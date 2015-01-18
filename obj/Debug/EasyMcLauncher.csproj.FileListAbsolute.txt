@@ -1,0 +1,8 @@
+E:\工作室\程序\minecraft启动器\src\WpfApplication1\EasyMcLauncher\EasyMcLauncher\EasyMcLauncher\bin\Debug\EasyMcLauncher.exe
+E:\工作室\程序\minecraft启动器\src\WpfApplication1\EasyMcLauncher\EasyMcLauncher\EasyMcLauncher\bin\Debug\EasyMcLauncher.pdb
+E:\工作室\程序\minecraft启动器\src\WpfApplication1\EasyMcLauncher\EasyMcLauncher\EasyMcLauncher\obj\Debug\EasyMcLauncher.csprojResolveAssemblyReference.cache
+E:\工作室\程序\minecraft启动器\src\WpfApplication1\EasyMcLauncher\EasyMcLauncher\EasyMcLauncher\obj\Debug\EasyMcLauncher.Form1.resources
+E:\工作室\程序\minecraft启动器\src\WpfApplication1\EasyMcLauncher\EasyMcLauncher\EasyMcLauncher\obj\Debug\EasyMcLauncher.Properties.Resources.resources
+E:\工作室\程序\minecraft启动器\src\WpfApplication1\EasyMcLauncher\EasyMcLauncher\EasyMcLauncher\obj\Debug\EasyMcLauncher.csproj.GenerateResource.Cache
+E:\工作室\程序\minecraft启动器\src\WpfApplication1\EasyMcLauncher\EasyMcLauncher\EasyMcLauncher\obj\Debug\EasyMcLauncher.exe
+E:\工作室\程序\minecraft启动器\src\WpfApplication1\EasyMcLauncher\EasyMcLauncher\EasyMcLauncher\obj\Debug\EasyMcLauncher.pdb
