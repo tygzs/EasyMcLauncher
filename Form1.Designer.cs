@@ -35,6 +35,7 @@
             // 
             // pic1
             // 
+            pic1.Cursor = System.Windows.Forms.Cursors.Default;
             pic1.Location = new System.Drawing.Point(0, 0);
             pic1.Name = "pic1";
             pic1.Size = new System.Drawing.Size(800, 468);
